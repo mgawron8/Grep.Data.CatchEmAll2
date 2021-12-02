@@ -1,37 +1,44 @@
 # Part 1
 ### a)
+ggrep -P "bulb" filescan_00.1 > Bulbasur.txt
+ggrep -P "bee" filescan_00.1 >Beedrill.txt
+ggrep -P "blas" filescan_00.1 > blastoise.txt
+ggrep -P "free" filescan_00.1 > butterfree.txt
+
+ggrep -P "mander" filescan_00.2 > charmander.txt
+ggrep -P "meleon" filescan_00.2 > charmeleon.txt
+ggrep -P "izard" filescan_00.2> charizard.txt
+
+ggrep -P "meo" filescan_00.3 >meowth.txt
+ggrep -P "ivy" filescan_00.3 >ivysaur.txt
+ggrep -P "jigg" filescan_00.3 > jigglypuff.txt
+ggrep -P "chu" filescan_00.3 >pikachu.txt
+
+ggrep -P "war" filescan_00.4 >wartortle.txt
+ggrep -P "venu" filescan_00.4 >venusaur.txt
+ggrep -P "squi" filescan_00.4 >squirtle.txt
+ggrep -P "psy" filescan_00.4 >psyduck.txt
 
 
+### b) shown in part A
 
-
-### b)
-
-
-
-### c)
-
-
-
-
-
-
-
-
-
-
+### c) shown in part B
 
 
 
 # Part 2
 ### a)
-
-
+16,unsure how to check purely with grep
 
 
 
 
 ### b)
+Using wc -l [pokemonname.txt] and comparing
 
+Pikachu
+Charizard
+Beedrill
 
 
 
